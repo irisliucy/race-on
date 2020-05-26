@@ -1,5 +1,8 @@
 # race-on
 
+### Race-on competition result 
+We won the top 5 team overall in Race-on competition in Spring 2020.
+
 ### SSH Remote raspberry pi
 ```
 ssh pi@raspberrypi-304.local
