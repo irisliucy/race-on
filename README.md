@@ -1,7 +1,7 @@
 # race-on
 
 ### Race-on competition result 
-We won the top 5 team overall in Race-on competition in Spring 2020.
+We won the third place overall in [Race-on](https://raceon.io/) competition in Spring 2020.
 
 ### SSH Remote raspberry pi
 ```
@@ -11,10 +11,10 @@ ssh pi@raspberrypi-304.local
 password: raspeberry
 
 ### TODO
-- [] Add PID
+- [ ] Add PID
 - [x] Understand the parameters of the codes
-- [] Improve the contrast code
-- [] Collect images for modeling
+- [ ] Improve the contrast code
+- [ ] Collect images for modeling
 
 
 ### Branches
