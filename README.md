@@ -1,7 +1,7 @@
 # race-on
 
 ### Race-on competition result 
-We won the third place overall in [Race-on](https://raceon.io/) competition in Spring 2020.
+We won the third place overall in USC [Race-on](https://raceon.io/) competition in Spring 2020.
 
 ### SSH Remote raspberry pi
 ```
