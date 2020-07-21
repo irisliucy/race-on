@@ -1,4 +1,4 @@
-# Race On self-driving car competition
+# Race On self-driving car
 
 ### Race-on competition result 
 We won the third place overall in USC [Race-on](https://raceon.io/) competition in Spring 2020.
