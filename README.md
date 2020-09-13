@@ -26,7 +26,7 @@ password: raspeberry
 - race-1-basic: Changes made to the original_master_code for testing purpose before it is pushed to staging
 
 ### Test Results
-[9:04 PM, 2/27/2020] Posha Dave: Works:
+[9:04 PM, 2/27/2020] Works:
 1) scan-line: 280
 2) straight speed: 27000, turn speed: 18000
 
